@@ -82,8 +82,3 @@ To view the dashboard or modify the data:
    git clone https://github.com/<your-username>/hr-analytics-dashboard.git
 
 
-
-### Key Considerations
-1. Add the actual repository link in the cloning section.
-2. Save the uploaded screenshot (`Screenshot 2024-11-25.png`) into a folder (e.g., `assets/`) and update the image path in the `Screenshots` section.
-3. Modify sections based on additional project details if needed.
